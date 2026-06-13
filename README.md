@@ -54,6 +54,8 @@ Database: **`elearning_db`**
 
 📸 **Table Creation Screenshot:**  
 
+- <img width="655" height="833" alt="Screenshot 2026-06-11 135132" src="https://github.com/user-attachments/assets/f7fe0319-5e6e-4212-848c-e81a3d4a7977" />
+
 
 📸 **Sample Data Screenshot:**  
 ![Screenshot](screenshots/sample_data.png)
