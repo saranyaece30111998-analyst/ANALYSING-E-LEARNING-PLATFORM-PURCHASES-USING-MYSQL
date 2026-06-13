@@ -59,6 +59,7 @@ Database: **`elearning_db`**
 
 📸 **Sample Data Screenshot:**  
 
+- <img width="866" height="718" alt="Screenshot 2026-06-11 143756" src="https://github.com/user-attachments/assets/c0f57d09-e114-4205-9476-293509cb6dc8" />
 
 ---
 
