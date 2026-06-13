@@ -114,7 +114,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 8. Learners spending above country average  
-   📸 ![Screenshot](screenshots/q8_country_avg.png)
+   - <img width="947" height="712" alt="Screenshot 2026-06-12 100523" src="https://github.com/user-attachments/assets/09cecba4-96ea-4b68-b721-37aca8030623" />
+
 
 ---
 
