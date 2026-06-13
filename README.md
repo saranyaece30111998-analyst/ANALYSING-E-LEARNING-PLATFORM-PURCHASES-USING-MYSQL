@@ -185,8 +185,7 @@ Would you like me to also **format this into a GitHub‑friendly table layout** 
 - AI & Data Science generate **most revenue** due to premium pricing.  
 - Marketing courses are **weak performers**, requiring promotional focus.  
 
-📸 **Insights Screenshot:**  
-![Screenshot](screenshots/key_insights.png)
+
 
 ---
 
