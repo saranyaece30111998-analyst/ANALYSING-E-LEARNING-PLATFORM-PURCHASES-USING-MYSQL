@@ -76,7 +76,6 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 📸 **Right Join Result:**  
-![Screenshot](screenshots/right_join.png)
 
 ---
 
