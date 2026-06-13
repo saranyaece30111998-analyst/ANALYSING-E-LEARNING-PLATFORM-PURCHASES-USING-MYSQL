@@ -125,7 +125,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 10. CASE – Classify learners (High/Medium/Low value)  
-    📸 ![Screenshot](screenshots/q10_case.png)
+    - 
 
 11. NULL Handling – Replace NULL purchase counts with 0  
     📸 ![Screenshot](screenshots/q11_null_handling.png)
