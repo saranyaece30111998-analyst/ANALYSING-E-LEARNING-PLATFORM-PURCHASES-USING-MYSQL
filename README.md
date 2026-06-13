@@ -133,7 +133,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 12. View – Category performance view  
-    📸 ![Screenshot](screenshots/q12_view.png)
+   - <img width="756" height="527" alt="Screenshot 2026-06-12 101800" src="https://github.com/user-attachments/assets/7c7e3033-8047-4c33-9571-d2c2453a594a" />
+
 
 ---
 
