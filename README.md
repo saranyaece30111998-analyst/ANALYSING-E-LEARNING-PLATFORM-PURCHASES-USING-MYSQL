@@ -1,4 +1,4 @@
-# ANALYSING-E-LEARNING-PLATFORM-PURCHASES-USING-MYSQL
+
 # 📊 Analysing E-Learning Platform Purchases using MySQL
 
 ## 📌 Project Overview
