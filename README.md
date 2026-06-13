@@ -139,6 +139,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 ---
 
 ## 📊 Enhanced ER Diagram
+- <img width="621" height="546" alt="Screenshot 2026-06-12 193218" src="https://github.com/user-attachments/assets/d12686f9-838f-4a55-a4a7-2604fdee3c25" />
 
 
 ---
