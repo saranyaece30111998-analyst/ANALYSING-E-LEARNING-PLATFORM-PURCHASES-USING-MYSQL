@@ -139,7 +139,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 ---
 
 ## 📊 Enhanced ER Diagram
-📸 ![Screenshot](screenshots/er_diagram.png)
+
 
 ---
 
