@@ -182,8 +182,7 @@ Would you like me to also **format this into a GitHub‑friendly table layout** 
 
 ## 📌 Key Insights
 - Programming courses drive **highest demand & purchase volume**.  
-- AI & Data Science generate **most revenue** due to premium pricing.  
-- Marketing courses are **weak performers**, requiring promotional focus.  
+  
 
 
 
