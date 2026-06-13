@@ -99,7 +99,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 5. Courses never purchased  
-   📸 ![Screenshot](screenshots/q5_unpurchased_courses.png)
+   - 
 
 ---
 
