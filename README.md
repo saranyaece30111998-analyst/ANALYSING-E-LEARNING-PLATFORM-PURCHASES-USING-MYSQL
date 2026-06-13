@@ -99,7 +99,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 5. Courses never purchased  
-   - 
+   - <img width="647" height="402" alt="Screenshot 2026-06-12 100010" src="https://github.com/user-attachments/assets/7c61678c-6164-4147-b356-5ab4aa8f226f" />
+
 
 ---
 
