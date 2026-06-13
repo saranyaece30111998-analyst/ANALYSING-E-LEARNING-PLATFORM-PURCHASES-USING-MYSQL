@@ -178,7 +178,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 - *Predictive* → What will happen  
 - *Prescriptive* → What should be done  
 
-Would you like me to also **format this into a GitHub‑friendly table layout** (KPIs side by side) so it looks visually stronger for recruiters and project reviewers?
+
 
 
   
