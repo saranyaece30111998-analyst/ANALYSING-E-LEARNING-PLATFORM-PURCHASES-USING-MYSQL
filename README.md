@@ -91,7 +91,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
    - <img width="661" height="480" alt="Screenshot 2026-06-12 095757" src="https://github.com/user-attachments/assets/09a04ae7-b276-4a21-afbc-6416642c8c30" />
 
 3. Category revenue & unique learners  
-   📸 ![Screenshot](screenshots/q3_category_revenue.png)
+   
 
 4. Learners purchasing from multiple categories  
    📸 ![Screenshot](screenshots/q4_multi_category.png)
