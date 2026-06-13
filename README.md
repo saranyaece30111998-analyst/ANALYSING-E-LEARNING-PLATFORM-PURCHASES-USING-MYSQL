@@ -42,7 +42,7 @@ Database: **`elearning_db`**
 - `purchase_date`
 
 📸 **Schema Screenshot:**  
-![Screenshot](screenshots/schema.png)
+![Screenshot]
 
 ---
 
