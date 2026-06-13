@@ -58,7 +58,7 @@ Database: **`elearning_db`**
 
 
 📸 **Sample Data Screenshot:**  
-![Screenshot](screenshots/sample_data.png)
+
 
 ---
 
