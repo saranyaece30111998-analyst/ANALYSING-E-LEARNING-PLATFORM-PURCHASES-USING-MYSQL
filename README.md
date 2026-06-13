@@ -84,7 +84,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 ## 📈 Core Analytical Queries
 1. Learner’s total spending by country  
-   - 
+   - <img width="731" height="531" alt="Screenshot 2026-06-12 095651" src="https://github.com/user-attachments/assets/2baeecc5-f425-4600-a6ca-f0d8fd7bff99" />
+
 
 2. Top 3 most purchased courses  
    📸 ![Screenshot](screenshots/q2_top_courses.png)
