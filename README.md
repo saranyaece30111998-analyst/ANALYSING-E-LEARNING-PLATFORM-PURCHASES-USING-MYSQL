@@ -175,8 +175,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 ✅ This section gives your README a **complete analytics story**:  
 - *Descriptive* → What happened  
 - *Diagnostic* → Why it happened  
-- *Predictive* → What will happen  
-- *Prescriptive* → What should be done  
+  
 
 
 
