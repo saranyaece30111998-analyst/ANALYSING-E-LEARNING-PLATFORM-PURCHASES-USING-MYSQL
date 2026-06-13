@@ -131,7 +131,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 📸 ![Screenshot](screenshots/er_diagram.png)
 
 ---
-Here’s a polished **README analysis section** with all four types of analytics (Descriptive, Diagnostic, Predictive, Prescriptive). This will make your GitHub project look professional and recruiter‑friendly:
+
 
 ---
 
