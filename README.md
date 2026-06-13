@@ -132,9 +132,6 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 ---
 
-
----
-
 ## 📊 Analytics & Insights
 
 ### **1. Descriptive Analysis (What happened?)**
