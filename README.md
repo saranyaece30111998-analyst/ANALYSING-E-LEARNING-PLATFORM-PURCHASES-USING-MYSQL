@@ -110,7 +110,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 7. Courses priced higher than Marketing category  
-   📸 ![Screenshot](screenshots/q7_price_comparison.png)
+   - <img width="992" height="567" alt="Screenshot 2026-06-12 100157" src="https://github.com/user-attachments/assets/d8a7e66d-d26f-4841-82ec-fa26c2bd6b08" />
+
 
 8. Learners spending above country average  
    📸 ![Screenshot](screenshots/q8_country_avg.png)
