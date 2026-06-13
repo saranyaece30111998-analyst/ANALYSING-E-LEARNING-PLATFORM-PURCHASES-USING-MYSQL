@@ -121,7 +121,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 ## 🔗 CTE, CASE, Views & NULL Handling
 9. CTE – Learners with spending above 10,000  
-   - 
+   - <img width="1125" height="675" alt="Screenshot 2026-06-12 101310" src="https://github.com/user-attachments/assets/9610573f-27a6-492a-8e20-fbb801d5278b" />
+
 
 10. CASE – Classify learners (High/Medium/Low value)  
     📸 ![Screenshot](screenshots/q10_case.png)
