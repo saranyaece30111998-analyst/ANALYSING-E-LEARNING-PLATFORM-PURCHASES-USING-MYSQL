@@ -106,7 +106,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 ## 🧩 Subqueries & Correlated Subqueries
 6. Learners spending above average  
-   📸 ![Screenshot](screenshots/q6_above_avg.png)
+   - <img width="1016" height="692" alt="Screenshot 2026-06-12 100055" src="https://github.com/user-attachments/assets/54b5cca8-ffa1-4fca-8c28-3e9167528011" />
+
 
 7. Courses priced higher than Marketing category  
    📸 ![Screenshot](screenshots/q7_price_comparison.png)
