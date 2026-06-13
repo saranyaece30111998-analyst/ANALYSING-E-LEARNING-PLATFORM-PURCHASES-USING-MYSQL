@@ -172,20 +172,6 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 ---
 
-✅ This section gives your README a **complete analytics story**:  
-- *Descriptive* → What happened  
-- *Diagnostic* → Why it happened  
-  
-
-
-
-
-  
-
-
-
----
-
 ## ✅ Conclusion
 - **Programming** → Volume-driven growth  
 - **AI & Data Science** → Value-driven profitability  
