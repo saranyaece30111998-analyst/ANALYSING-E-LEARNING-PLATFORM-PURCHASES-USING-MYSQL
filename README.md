@@ -43,6 +43,7 @@ Database: **`elearning_db`**
 
 📸 **Schema Screenshot:**  
 
+- <img width="407" height="87" alt="Screenshot 2026-06-11 135055" src="https://github.com/user-attachments/assets/7c406b0b-6d75-4de2-963d-f6bfd04e5117" />
 
 ---
 
