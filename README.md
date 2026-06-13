@@ -88,7 +88,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 2. Top 3 most purchased courses  
-   📸 ![Screenshot](screenshots/q2_top_courses.png)
+   
 
 3. Category revenue & unique learners  
    📸 ![Screenshot](screenshots/q3_category_revenue.png)
