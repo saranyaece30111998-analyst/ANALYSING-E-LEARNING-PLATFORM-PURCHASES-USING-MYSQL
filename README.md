@@ -129,7 +129,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 11. NULL Handling – Replace NULL purchase counts with 0  
-    📸 ![Screenshot](screenshots/q11_null_handling.png)
+    - <img width="987" height="507" alt="Screenshot 2026-06-12 101429" src="https://github.com/user-attachments/assets/6d691ee2-0739-46a1-beec-0af1576dfd2f" />
+
 
 12. View – Category performance view  
     📸 ![Screenshot](screenshots/q12_view.png)
