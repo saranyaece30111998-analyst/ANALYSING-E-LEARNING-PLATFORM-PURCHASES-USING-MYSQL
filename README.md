@@ -74,6 +74,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 📸 **Left Join Result:**  
+- <img width="822" height="610" alt="Screenshot 2026-06-12 095310" src="https://github.com/user-attachments/assets/66b0e698-cf78-4005-bc4a-e36d8e96e489" />
 
 
 📸 **Right Join Result:**  
