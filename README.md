@@ -53,7 +53,7 @@ Database: **`elearning_db`**
 - Inserted sample learners, courses, and purchases
 
 📸 **Table Creation Screenshot:**  
-![Screenshot](screenshots/table_creation.png)
+
 
 📸 **Sample Data Screenshot:**  
 ![Screenshot](screenshots/sample_data.png)
