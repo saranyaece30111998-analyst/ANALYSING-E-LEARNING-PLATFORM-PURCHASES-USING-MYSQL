@@ -95,7 +95,8 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 4. Learners purchasing from multiple categories  
-   
+   - <img width="732" height="527" alt="Screenshot 2026-06-12 095931" src="https://github.com/user-attachments/assets/98b345f8-b8de-4051-825c-5c6ed77045b3" />
+
 
 5. Courses never purchased  
    📸 ![Screenshot](screenshots/q5_unpurchased_courses.png)
