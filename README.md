@@ -95,7 +95,7 @@ Queries to display learner name, course name, category, quantity, total amount, 
 
 
 4. Learners purchasing from multiple categories  
-   📸 ![Screenshot](screenshots/q4_multi_category.png)
+   
 
 5. Courses never purchased  
    📸 ![Screenshot](screenshots/q5_unpurchased_courses.png)
